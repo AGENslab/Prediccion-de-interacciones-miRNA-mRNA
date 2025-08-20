@@ -1,7 +1,6 @@
 # Predicción de Interacciones miRNA–mRNA en Humanos y Plantas mediante Deep Learning
 
-Este repositorio contiene el código desarrollado para una tesis de título que implementa y evalúa modelos de Deep Learning orientados a predecir interacciones entre microRNAs (miRNAs) y genes mRNA, tanto en humanos como en especies vegetales. El enfoque combina arquitecturas CNN + Self-Attention y Transformers, entrenadas sobre secuencias biológicas reales y validadas mediante aprendizaje por transferencia.
-
+Este repositorio contiene el código desarrollado para una tesis  que implementa y evalúa modelos de Deep Learning orientados a predecir interacciones entre microRNAs (miRNAs) y genes mRNA, tanto en humanos como en especies vegetales. 
 ## 📁 Estructura del repositorio
 
 ```
