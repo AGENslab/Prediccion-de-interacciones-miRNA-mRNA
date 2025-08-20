@@ -1,0 +1,15 @@
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+*.tmp
+*.cache/
+data/tmp/
+data/intermedio/
