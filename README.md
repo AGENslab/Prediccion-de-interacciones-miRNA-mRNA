@@ -1,4 +1,4 @@
-# Predicción de Interacciones miRNA–mRNA en Humanos y Plantas mediante Deep Learning
+# Predicción de Interacciones miRNA–mRNA en Humanos y Plantas mediante Deep Learning Versión 1.0
 
 Este repositorio contiene el código desarrollado para una tesis  que implementa y evalúa modelos de Deep Learning orientados a predecir interacciones entre microRNAs (miRNAs) y genes mRNA, tanto en humanos como en especies vegetales. 
 ## 📁 Estructura del repositorio
@@ -8,7 +8,6 @@ Este repositorio contiene el código desarrollado para una tesis  que implementa
 │   ├── balancear_dataset.py
 │   ├── Benchmark.py
 │   ├── Benchmark_plantas.py
-│   ├── buscar_pares.py
 │   ├── combinar_dataset.py
 │   ├── evaluar_modelo_final.py
 │   ├── evaluar_modelo_finetune_plantas.py
