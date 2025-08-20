@@ -23,6 +23,34 @@ Este repositorio contiene el código desarrollado para una tesis  que implementa
 │   ├── pla_encontrar_especies.py
 │   ├── pla_filtrar_dataset_plantas.py
 │   ├── pla_generar_combinaciones_nuevas.py
+├── data/                        
+│   ├── dataset_balanceado.jsonl
+│   ├── dataset_combinaciones_artificiales.jsonl
+│   ├── dataset_entrenamiento.jsonl
+│   ├── dataset_mirtarbase.jsonl
+│   ├── dataset_plantas.jsonl
+│   ├── dataset_plantas_mirna.jsonl
+│   ├── dataset_plantas_secuencias.jsonl
+│   ├── dataset_secuencias_balanceado.jsonl
+│   ├── dataset_validacion.jsonl
+│   ├── diccionario_gen_a_secuencia.csv
+│   ├── diccionario_gen_a_secuencia.json
+│   ├── diccionario_gen_a_secuencia_plantas.json
+│   ├── mature.fa
+│   ├── miRTarBase_MTI.xlsx
+│   ├── mirtarbase_humanos_funcionales.csv
+│   ├── modelo_cnn_attention_final.keras
+│   ├── modelo_finetune_rechazo_plantas.keras
+│   ├── modelo_finetune_transformer_plantas.keras
+│   ├── modelo_transformer_f.keras
+│   ├── predicciones_combinaciones_con_rechazo.jsonl
+│   ├── tarbase_data.csv
+│   ├── tarbase_humanos.csv
+│   └── 
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ## 🧠 Modelos utilizados
